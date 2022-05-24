@@ -1,0 +1,4 @@
+pollination-streamlit>=0.2.1
+honeybee-vtk==0.37.3
+streamlit-autorefresh>=0.0.1
+streamlit-vtkjs>=0.3.2
